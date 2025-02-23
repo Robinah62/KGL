@@ -1,0 +1,14 @@
+.container-fluid{
+    background-color:azure;
+}
+.card-text{
+color: purple;
+}
+.card-title{
+    color: blue;
+}
+
+}
+.card-body{
+    background-color: orange;
+}
